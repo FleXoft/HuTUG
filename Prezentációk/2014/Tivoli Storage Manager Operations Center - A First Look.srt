@@ -1,0 +1,305 @@
+1
+00:00:06,130 --> 00:00:10,430
+A mentés az egyik legrégebbi IT folyamat, 
+de az  IBM-nél
+
+2
+00:00:10,430 --> 00:00:13,099
+mi az gondoljuk, hogy a mentés fejlődése
+csak most kezdődik.
+
+3
+00:00:13,099 --> 00:00:17,640
+Manapság az IT szervezetek túl sok időt töltenek
+a hibás mentések helyrehozásával
+
+4
+00:00:17,640 --> 00:00:20,619
+és a mentési rendszerek karbantartásával.
+
+5
+00:00:20,619 --> 00:00:24,179
+A nem elég hatékony működés 
+erőforrásokat von el más projektektől.
+
+6
+00:00:24,179 --> 00:00:28,049
+A mentési rendszerek növekedésével az adminisztráció
+egyre több időt vesz igénybe
+
+7
+00:00:28,050 --> 00:00:29,970
+és ezek a rendszerek mindig növekedni fognak.
+
+8
+00:00:29,970 --> 00:00:32,259
+Valaminek vátoznia kell!
+
+9
+00:00:32,259 --> 00:00:35,849
+Az IBM kifejlesztette a mentő rendszer adminisztrációs
+szoftverének egy új generációját. 
+
+10
+00:00:35,850 --> 00:00:37,120
+
+11
+00:00:37,120 --> 00:00:43,330
+Ami elemzéseket, 
+munkafolyamat automatizálást és 
+fejlett megjelenítést használ.
+
+12
+00:00:43,330 --> 00:00:46,920
+Az IBM új grafikus felülete 
+a Tivoli Storage Manager-hez segít abban,
+
+13
+00:00:46,920 --> 00:00:50,140
+hogy egyszerűbb módon 
+több mentést tudjunk kezelni
+
+14
+00:00:50,140 --> 00:00:52,560
+és jobb eredényességgel.
+
+15
+00:00:52,560 --> 00:00:56,730
+Nézzünk meg 3 területet, ahol 
+az adminisztrátorok manapság időt töltenek:
+
+16
+00:00:56,730 --> 00:01:00,059
+A mentési rendszer rendelkezésre állása, 
+a kapacitás kezelés,
+
+17
+00:01:00,060 --> 00:01:01,960
+a mentési hibák elemzése
+
+18
+00:01:01,960 --> 00:01:06,159
+és a kollégákkal való együttműködés a problémák megoldására.
+
+ 19
+00:01:06,159 --> 00:01:10,850
+Először is a fejlett megjelenítés az új
+felhasználói felületben könnyebb áttekintést ad az
+
+20
+00:01:10,850 --> 00:01:14,039
+összevont nézetével a mentési infrastruktúráról
+
+21
+00:01:14,040 --> 00:01:17,930
+még akkor is, ha több ezer mentéstről van szó 
+több telephellyel.
+
+22
+00:01:17,930 --> 00:01:21,700
+A bejelentkező képernyő után azonnal az összevont 
+biztonsági mentés és helyreállítás képernyőre kerülünk
+
+23
+00:01:21,700 --> 00:01:22,780
+amit DASHBOARD-nak hívunk.
+
+24
+00:01:22,780 --> 00:01:25,600
+Ez lehetővé teszi a skálázhatóság új szintjét.
+
+25
+00:01:25,600 --> 00:01:30,100
+Egy szempillantás alatt láthatóvá válik az állapota, 
+a kapacitása akár több mentő szervernek,
+
+26
+00:01:30,100 --> 00:01:34,520
+és a mentett rendszerek és alkalmazásoknak az összefoglalója.
+
+27
+00:01:34,520 --> 00:01:37,869
+A részletekért mélyebre is lehet menni, 
+mint mentő szerverk (backup servers)
+
+28
+00:01:37,870 --> 00:01:38,950
+katalógusok (adatbázisok)
+
+29
+00:01:38,950 --> 00:01:40,430
+tároló eszközök (storage devices)
+
+30
+00:01:40,430 --> 00:01:42,790
+és más erőforrások.
+
+31
+00:01:42,790 --> 00:01:47,710
+Ez a felület web alapú, így akár mobil eszközről is elérhető
+
+32
+00:01:47,710 --> 00:01:49,929
+bárhol is dolgozunk. ;-)
+
+33
+00:01:49,930 --> 00:01:53,299
+Szkriptek futtatása és riportok összeállítása helyett
+
+34
+00:01:53,299 --> 00:01:56,729
+rögtön láthatod, hogy a mentő környezet rendben van,
+
+35
+00:01:56,729 --> 00:01:59,759
+és továbbléphetsz a következő fontos felaladatodhoz.
+
+36
+00:01:59,759 --> 00:02:02,610
+Számos ok miatt csúszhat hiba a mentési folyamatba:
+
+37
+00:02:02,610 --> 00:02:04,570
+Rendszerek költöznek és megszűnnek.
+
+38
+00:02:04,570 --> 00:02:06,490
+Lehetnek ütközések az időzítésekben.
+
+39
+00:02:06,490 --> 00:02:10,189
+Vagy hálózati problémák és konfigurációs hibák. 
+
+40
+00:02:10,189 --> 00:02:15,659
+Nagyobb szervezeteknek naponta akár több tucatt
+mentési problémával kell foglalkoznia.
+
+41
+00:02:15,659 --> 00:02:19,999
+De mostantól a mentési problémák elemzése megérzésen alapul és vizuális
+
+42
+00:02:19,999 --> 00:02:24,379
+Ahelyett hogy errorlog-okat és azok hibaüzeneteit elemeznénk
+
+43
+00:02:24,379 --> 00:02:25,789
+A figyelmeztetések priorizáltak.
+
+44
+00:02:25,789 --> 00:02:29,099
+A rendszer kiemeli a fontosabb problémákat. 
+
+45
+00:02:29,099 --> 00:02:31,189
+A figyelmeztetések a probléma helyén jelennek meg.
+
+46
+00:02:31,189 --> 00:02:34,239
+Egy nézetben a legfrissebb mentésekkel
+
+47
+00:02:34,239 --> 00:02:38,569
+Most könnyebb megérteni a problémák 
+szolgáltatásokra gyakorolt hatását
+
+48
+00:02:38,569 --> 00:02:43,018
+valamint az adatvesztés kozkázatát és 
+meg lehet tenni a szükséges javító lépéseket.
+
+49
+00:02:43,019 --> 00:02:47,949
+Mivel a mentési rendszerek automatizáltabbá és szolgáltatásközpontúbbá váltak 
+
+50
+00:02:47,949 --> 00:02:52,720
+Amit valaha szakértő adminisztrátorok végeztek,
+most már szerver adminisztrátorok vagy
+
+51
+00:02:52,720 --> 00:02:55,449
+a helpdesk és/vagy mások is elvégezhetik.
+
+52
+00:02:55,449 --> 00:02:59,809
+Most már csapatmunkában is könnyű a mentési problémák megoldása.
+
+53
+00:02:59,809 --> 00:03:04,959
+Egy adminisztrátor néhány kattintással ki 
+tudja osztani a feladatokat a csapattagokank.
+
+54
+00:03:04,959 --> 00:03:09,389
+Ahogy egyre inkább élérhetővé válik 
+mindeki számára a mentés adminisztrációja,
+
+55
+00:03:09,389 --> 00:03:13,469
+a szakértők hatékony időbeosztásával kezdünk foglalkozni.
+
+56
+00:03:13,469 --> 00:03:18,189
+Amikor szakértők elé kerülnek a komolyabb problémák
+
+57
+00:03:18,189 --> 00:03:20,728
+késedelem nékül el kell tudniuk érni a rendszer parancsfelületét 
+
+58
+00:03:20,729 --> 00:03:24,549
+Ezért a parancs szerkeztő is elérhető. 
+
+59
+00:03:24,549 --> 00:03:28,349
+A problémákat meg lehet oldani ezzel a parancsfelülettel az adminisztrátori
+
+60
+00:03:28,349 --> 00:03:30,988
+DASHBOARD bezárása nélkül.
+
+61
+00:03:30,989 --> 00:03:36,019
+És végül a üzemeltető csopoprt azonnal láthatja, hogy a hiba lezárásara került.
+
+62
+00:03:36,019 --> 00:03:40,829
+Összevont adminisztráció,
+tapasztalaton alapuló probléma megoldással
+
+63
+00:03:40,829 --> 00:03:45,439
+beépített csapat munka támogatással csak három példa arra,
+hogyan fejlődik az IBM az elvárásokon túl és
+
+64
+00:03:45,439 --> 00:03:46,559
+
+65
+00:03:46,559 --> 00:03:49,819
+foglalkozik azzal, hogy néhány igazán 
+nehéz problémára megoldást találjon.
+
+66
+00:03:49,819 --> 00:03:52,409
+melyekkel az ügyfelek találkoznak a mentési
+rendszerükben.
+
+67
+00:03:52,409 --> 00:03:53,798
+Többet szeretnél megtudni?
+
+68
+00:03:53,799 --> 00:03:57,529
+Megtalálhatod az utolsó állapotot és
+megoszthatod az ötleteidet 
+
+69
+00:03:57,529 --> 00:03:59,869
+A videó alatti linken.
+
+70
+00:03:59,869 --> 00:04:02,029
+Mi szeretnénk hallani a véleményedet!
